@@ -36,4 +36,17 @@ python train.py
 python test.py
 ```
 
+## Citation
+If you find this work helpful, please kindly cite our [paper](https://ieeexplore.ieee.org/document/9520129)
+```
+@ARTICLE{9520129,
+  author={Yan, Haoyang and Ma, Xiaolei and Pu, Ziyuan},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Learning Dynamic and Hierarchical Traffic Spatiotemporal Features With Transformer}, 
+  year={2022},
+  volume={23},
+  number={11},
+  pages={22386-22399},
+  doi={10.1109/TITS.2021.3102983}}
+```
 
