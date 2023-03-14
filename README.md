@@ -1,6 +1,6 @@
 # Traffic Transformer
-A pytorch implementation of Traffic Transformer for traffic forecasting.
-Paper(https://ieeexplore.ieee.org/document/9520129)
+A pytorch implementation of Traffic Transformer for traffic forecasting.Now the corresponding paper is available online at (https://ieeexplore.ieee.org/document/9520129)
+
 <img width="800" height="400" src=fig2.png>
 
 ## Acknowledgement
